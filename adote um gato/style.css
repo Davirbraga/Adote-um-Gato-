@@ -1,0 +1,191 @@
+*{
+    margin: 0rem;
+    padding: 0rem;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 1.5rem;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.9rem;
+    margin: 1.0rem blueviolet;
+    padding: 0rem;
+    background-color: blueviolet;
+}
+
+main{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: blueviolet;
+    color: white;
+}
+
+main section .intro{
+    display: flex;
+    align-items: center;
+    flex-direction: column;   
+    margin-top: 2.0rem;
+    margin-bottom: 3.0rem;
+ 
+}
+
+#gati{
+    margin-top: 2.0rem;
+    width: 450px;
+}
+
+#pegad{
+    margin-top: 1.0rem;
+    margin-bottom: 1.0rem;
+    width: 99vw;
+    height: 9vh;
+}
+
+section div h2{
+    display: flex;
+    justify-content: center;
+    margin-top: 3.4rem;
+    margin-bottom: 2.0rem;
+
+}
+
+section div h3{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 2.5rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+
+}
+
+section div h4{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 1.0rem ;
+    margin-bottom: 0.5rem;
+
+}
+
+section .list1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2.0rem;
+    margin-bottom: 1.5rem;
+
+}
+
+
+section div p{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 6.0rem;
+}
+
+main .container div{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#img1{
+    width: 400px;
+    margin-top: 2.0rem;
+    margin-bottom: 0.5rem;
+}
+
+#img2{
+    width: 400px;
+    margin-top: 2.0rem;
+    margin-bottom: 0.5rem;
+}
+
+#img3{
+    width: 400px;
+    margin-top: 2.0rem;
+    margin-bottom: 0.5rem;
+}
+
+.button{
+    margin: 0rem;
+    padding: 0.5rem;
+    border-radius: 1.0rem;
+    width: 180px;
+    height: 50px;
+    font-size: 1.5rem;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: italic;
+    animation-play-state: paused;
+    color: black;
+    background: white;
+
+}
+
+main .connect div{
+    margin-top: 6.0rem;
+}
+
+#enviar{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10.0rem;
+}
+
+footer div{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    background-image: linear-gradient(blueviolet, black);
+    color: white;
+}
+
+#pegada2{
+    margin-top: 5.0rem;
+    margin-bottom: 5.0rem;
+    width: 99vw;
+    height: 9vh;
+}
+
+#infinity{
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
+    width: 150px;
+}
+
+footer div p{
+    margin: 1.0rem;
+}
+
+footer div h3{
+    margin: 3.0rem;
+    color: rgb(45, 247, 0);
+}
+
+#play{
+    margin-bottom: 8.0rem;
+    width: 150px;
+}
+
+#ios{
+    margin-top: 2.0rem;
+    width: 150px;
+}
+
+span{
+    color: rgb(45, 247, 0);
+    font-style: italic;
+}
+
